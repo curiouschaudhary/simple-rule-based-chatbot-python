@@ -39,6 +39,8 @@ It provides basic conversation abilities like greetings, purpose, and FAQs. Perf
 3. **Start chatting!** Type `exit` or `bye` to end the conversation.
 
 ---
+![image](https://github.com/user-attachments/assets/f96ba93b-a1ce-4e0b-adee-703350261dba)
+
 
 ## 📂 File Structure
 
